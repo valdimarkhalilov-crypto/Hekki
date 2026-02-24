@@ -1,3 +1,10 @@
 ﻿Console.WriteLine("What is your name?");
 string? username = Console.ReadLine();
-Console.WriteLine("Hello " + username);
+if (username == "Маша")
+{
+    Console.WriteLine("Приветствую тебя, Маша! Очень давно не виделись!");
+}
+else
+{
+     Console.WriteLine("Приветствую тебя, " + username + "!");
+}
