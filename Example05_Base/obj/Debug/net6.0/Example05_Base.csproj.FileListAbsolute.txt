@@ -1,0 +1,15 @@
+C:\Users\Dadim\Desktop\Examples\Example05_Base\bin\Debug\net6.0\Example05_Base.exe
+C:\Users\Dadim\Desktop\Examples\Example05_Base\bin\Debug\net6.0\Example05_Base.deps.json
+C:\Users\Dadim\Desktop\Examples\Example05_Base\bin\Debug\net6.0\Example05_Base.runtimeconfig.json
+C:\Users\Dadim\Desktop\Examples\Example05_Base\bin\Debug\net6.0\Example05_Base.dll
+C:\Users\Dadim\Desktop\Examples\Example05_Base\bin\Debug\net6.0\Example05_Base.pdb
+C:\Users\Dadim\Desktop\Examples\Example05_Base\obj\Debug\net6.0\Example05_Base.csproj.AssemblyReference.cache
+C:\Users\Dadim\Desktop\Examples\Example05_Base\obj\Debug\net6.0\Example05_Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dadim\Desktop\Examples\Example05_Base\obj\Debug\net6.0\Example05_Base.AssemblyInfoInputs.cache
+C:\Users\Dadim\Desktop\Examples\Example05_Base\obj\Debug\net6.0\Example05_Base.AssemblyInfo.cs
+C:\Users\Dadim\Desktop\Examples\Example05_Base\obj\Debug\net6.0\Example05_Base.csproj.CoreCompileInputs.cache
+C:\Users\Dadim\Desktop\Examples\Example05_Base\obj\Debug\net6.0\Example05_Base.dll
+C:\Users\Dadim\Desktop\Examples\Example05_Base\obj\Debug\net6.0\refint\Example05_Base.dll
+C:\Users\Dadim\Desktop\Examples\Example05_Base\obj\Debug\net6.0\Example05_Base.pdb
+C:\Users\Dadim\Desktop\Examples\Example05_Base\obj\Debug\net6.0\Example05_Base.genruntimeconfig.cache
+C:\Users\Dadim\Desktop\Examples\Example05_Base\obj\Debug\net6.0\ref\Example05_Base.dll
