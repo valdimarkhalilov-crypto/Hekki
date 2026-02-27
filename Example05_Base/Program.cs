@@ -1,22 +1,14 @@
-﻿using System.Security.Cryptography;
+﻿Console.Write("Введите количество гирь: ");
+int size = int.Parse(Console.ReadLine());
 
-int baseValue = RandomNumberGenerator.GetInt32(0, 100);
-int count = 0;
-Console.WriteLine("Введите количество итераций:");
-int a = int.Parse(Console.ReadLine());
-while (count<a)
-{    int randomValue = RandomNumberGenerator.GetInt32(0, 100);
-    if (randomValue > baseValue)
-    {
-        Console.WriteLine($"Случайное число {randomValue} больше базового {baseValue}");
-    }
-    else if (randomValue < baseValue)
-    {
-        Console.WriteLine($"Случайное число {randomValue} меньше базового {baseValue}");
-    }
-    else
-    {
-        Console.WriteLine($"Случайное число {randomValue} равно базовому {baseValue}");
-    }
-    count++;
+int[] array = new int[size];
+for (int i = 0; i < size; i++)
+{
+    Console.Write($"Вес гири #{i+1}: ");
+    array[i] = int.Parse(Console.ReadLine());
 }
+
+// получить максимум через LINQ
+int max = array.Max();
+Console.WriteLine($"max = {max}");
+
