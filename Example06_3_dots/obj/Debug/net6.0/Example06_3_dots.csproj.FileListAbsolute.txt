@@ -1,0 +1,15 @@
+C:\Users\Dadim\Desktop\Examples\Example06_3_dots\bin\Debug\net6.0\Example06_3_dots.exe
+C:\Users\Dadim\Desktop\Examples\Example06_3_dots\bin\Debug\net6.0\Example06_3_dots.deps.json
+C:\Users\Dadim\Desktop\Examples\Example06_3_dots\bin\Debug\net6.0\Example06_3_dots.runtimeconfig.json
+C:\Users\Dadim\Desktop\Examples\Example06_3_dots\bin\Debug\net6.0\Example06_3_dots.dll
+C:\Users\Dadim\Desktop\Examples\Example06_3_dots\bin\Debug\net6.0\Example06_3_dots.pdb
+C:\Users\Dadim\Desktop\Examples\Example06_3_dots\obj\Debug\net6.0\Example06_3_dots.csproj.AssemblyReference.cache
+C:\Users\Dadim\Desktop\Examples\Example06_3_dots\obj\Debug\net6.0\Example06_3_dots.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dadim\Desktop\Examples\Example06_3_dots\obj\Debug\net6.0\Example06_3_dots.AssemblyInfoInputs.cache
+C:\Users\Dadim\Desktop\Examples\Example06_3_dots\obj\Debug\net6.0\Example06_3_dots.AssemblyInfo.cs
+C:\Users\Dadim\Desktop\Examples\Example06_3_dots\obj\Debug\net6.0\Example06_3_dots.csproj.CoreCompileInputs.cache
+C:\Users\Dadim\Desktop\Examples\Example06_3_dots\obj\Debug\net6.0\Example06_3_dots.dll
+C:\Users\Dadim\Desktop\Examples\Example06_3_dots\obj\Debug\net6.0\refint\Example06_3_dots.dll
+C:\Users\Dadim\Desktop\Examples\Example06_3_dots\obj\Debug\net6.0\Example06_3_dots.pdb
+C:\Users\Dadim\Desktop\Examples\Example06_3_dots\obj\Debug\net6.0\Example06_3_dots.genruntimeconfig.cache
+C:\Users\Dadim\Desktop\Examples\Example06_3_dots\obj\Debug\net6.0\ref\Example06_3_dots.dll

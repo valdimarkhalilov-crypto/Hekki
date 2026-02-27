@@ -1,15 +1,22 @@
-﻿int a = new Random().Next(1, 10);
-int b = new Random().Next(1, 10);
-int c = new Random().Next(1, 10);
-int d = new Random().Next(1, 10);
-int e = new Random().Next(1, 10);
-int max = a;
-if (b > max)
-    max = b;
-if (c > max)
-    max = c;
-if (d > max)
-    max = d;
-if (e > max)
-    max = e;
-Console.WriteLine($"The maximum value is: {max}, generated from the numbers: {a}, {b}, {c}, {d}, {e}.");        
+﻿using System.Security.Cryptography;
+
+int baseValue = RandomNumberGenerator.GetInt32(0, 100);
+int count = 0;
+Console.WriteLine("Введите количество итераций:");
+int a = int.Parse(Console.ReadLine());
+while (count<a)
+{    int randomValue = RandomNumberGenerator.GetInt32(0, 100);
+    if (randomValue > baseValue)
+    {
+        Console.WriteLine($"Случайное число {randomValue} больше базового {baseValue}");
+    }
+    else if (randomValue < baseValue)
+    {
+        Console.WriteLine($"Случайное число {randomValue} меньше базового {baseValue}");
+    }
+    else
+    {
+        Console.WriteLine($"Случайное число {randomValue} равно базовому {baseValue}");
+    }
+    count++;
+}
