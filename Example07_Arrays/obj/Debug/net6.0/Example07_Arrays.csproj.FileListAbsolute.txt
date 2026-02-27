@@ -1,0 +1,15 @@
+C:\Users\Dadim\Desktop\Examples\Example07_Arrays\obj\Debug\net6.0\Example07_Arrays.csproj.AssemblyReference.cache
+C:\Users\Dadim\Desktop\Examples\Example07_Arrays\obj\Debug\net6.0\Example07_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dadim\Desktop\Examples\Example07_Arrays\obj\Debug\net6.0\Example07_Arrays.AssemblyInfoInputs.cache
+C:\Users\Dadim\Desktop\Examples\Example07_Arrays\obj\Debug\net6.0\Example07_Arrays.AssemblyInfo.cs
+C:\Users\Dadim\Desktop\Examples\Example07_Arrays\obj\Debug\net6.0\Example07_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Dadim\Desktop\Examples\Example07_Arrays\bin\Debug\net6.0\Example07_Arrays.exe
+C:\Users\Dadim\Desktop\Examples\Example07_Arrays\bin\Debug\net6.0\Example07_Arrays.deps.json
+C:\Users\Dadim\Desktop\Examples\Example07_Arrays\bin\Debug\net6.0\Example07_Arrays.runtimeconfig.json
+C:\Users\Dadim\Desktop\Examples\Example07_Arrays\bin\Debug\net6.0\Example07_Arrays.dll
+C:\Users\Dadim\Desktop\Examples\Example07_Arrays\bin\Debug\net6.0\Example07_Arrays.pdb
+C:\Users\Dadim\Desktop\Examples\Example07_Arrays\obj\Debug\net6.0\Example07_Arrays.dll
+C:\Users\Dadim\Desktop\Examples\Example07_Arrays\obj\Debug\net6.0\refint\Example07_Arrays.dll
+C:\Users\Dadim\Desktop\Examples\Example07_Arrays\obj\Debug\net6.0\Example07_Arrays.pdb
+C:\Users\Dadim\Desktop\Examples\Example07_Arrays\obj\Debug\net6.0\Example07_Arrays.genruntimeconfig.cache
+C:\Users\Dadim\Desktop\Examples\Example07_Arrays\obj\Debug\net6.0\ref\Example07_Arrays.dll

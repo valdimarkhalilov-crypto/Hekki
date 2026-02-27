@@ -1,0 +1,5 @@
+C:\Users\Dadim\Desktop\Examples\Example07_Arrays\obj\Release\net6.0\Example07_Arrays.csproj.AssemblyReference.cache
+C:\Users\Dadim\Desktop\Examples\Example07_Arrays\obj\Release\net6.0\Example07_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dadim\Desktop\Examples\Example07_Arrays\obj\Release\net6.0\Example07_Arrays.AssemblyInfoInputs.cache
+C:\Users\Dadim\Desktop\Examples\Example07_Arrays\obj\Release\net6.0\Example07_Arrays.AssemblyInfo.cs
+C:\Users\Dadim\Desktop\Examples\Example07_Arrays\obj\Release\net6.0\Example07_Arrays.csproj.CoreCompileInputs.cache
