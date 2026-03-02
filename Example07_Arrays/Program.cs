@@ -1,8 +1,14 @@
 ﻿int[] arrays = {1, 12, 31, 4, 15, 16, 17, 18};
 
 int n = arrays.Length;
-int find = 155;
-
+if (int.TryParse(Console.ReadLine(), out int find))
+{
+    // ваш код поиска
+}
+else
+{
+    Console.WriteLine("Некорректный ввод");
+}
 int index = 0;
 
 while (index < n)
