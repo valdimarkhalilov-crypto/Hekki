@@ -1,0 +1,15 @@
+C:\Users\Dadim\Desktop\Examples\Example11_massive\bin\Debug\net6.0\Example11_massive.exe
+C:\Users\Dadim\Desktop\Examples\Example11_massive\bin\Debug\net6.0\Example11_massive.deps.json
+C:\Users\Dadim\Desktop\Examples\Example11_massive\bin\Debug\net6.0\Example11_massive.runtimeconfig.json
+C:\Users\Dadim\Desktop\Examples\Example11_massive\bin\Debug\net6.0\Example11_massive.dll
+C:\Users\Dadim\Desktop\Examples\Example11_massive\bin\Debug\net6.0\Example11_massive.pdb
+C:\Users\Dadim\Desktop\Examples\Example11_massive\obj\Debug\net6.0\Example11_massive.csproj.AssemblyReference.cache
+C:\Users\Dadim\Desktop\Examples\Example11_massive\obj\Debug\net6.0\Example11_massive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dadim\Desktop\Examples\Example11_massive\obj\Debug\net6.0\Example11_massive.AssemblyInfoInputs.cache
+C:\Users\Dadim\Desktop\Examples\Example11_massive\obj\Debug\net6.0\Example11_massive.AssemblyInfo.cs
+C:\Users\Dadim\Desktop\Examples\Example11_massive\obj\Debug\net6.0\Example11_massive.csproj.CoreCompileInputs.cache
+C:\Users\Dadim\Desktop\Examples\Example11_massive\obj\Debug\net6.0\Example11_massive.dll
+C:\Users\Dadim\Desktop\Examples\Example11_massive\obj\Debug\net6.0\refint\Example11_massive.dll
+C:\Users\Dadim\Desktop\Examples\Example11_massive\obj\Debug\net6.0\Example11_massive.pdb
+C:\Users\Dadim\Desktop\Examples\Example11_massive\obj\Debug\net6.0\Example11_massive.genruntimeconfig.cache
+C:\Users\Dadim\Desktop\Examples\Example11_massive\obj\Debug\net6.0\ref\Example11_massive.dll
