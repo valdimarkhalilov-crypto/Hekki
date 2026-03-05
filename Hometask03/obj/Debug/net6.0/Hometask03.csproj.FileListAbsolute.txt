@@ -1,0 +1,15 @@
+C:\Users\Dadim\Desktop\Examples\Hometask03\bin\Debug\net6.0\Hometask03.exe
+C:\Users\Dadim\Desktop\Examples\Hometask03\bin\Debug\net6.0\Hometask03.deps.json
+C:\Users\Dadim\Desktop\Examples\Hometask03\bin\Debug\net6.0\Hometask03.runtimeconfig.json
+C:\Users\Dadim\Desktop\Examples\Hometask03\bin\Debug\net6.0\Hometask03.dll
+C:\Users\Dadim\Desktop\Examples\Hometask03\bin\Debug\net6.0\Hometask03.pdb
+C:\Users\Dadim\Desktop\Examples\Hometask03\obj\Debug\net6.0\Hometask03.csproj.AssemblyReference.cache
+C:\Users\Dadim\Desktop\Examples\Hometask03\obj\Debug\net6.0\Hometask03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dadim\Desktop\Examples\Hometask03\obj\Debug\net6.0\Hometask03.AssemblyInfoInputs.cache
+C:\Users\Dadim\Desktop\Examples\Hometask03\obj\Debug\net6.0\Hometask03.AssemblyInfo.cs
+C:\Users\Dadim\Desktop\Examples\Hometask03\obj\Debug\net6.0\Hometask03.csproj.CoreCompileInputs.cache
+C:\Users\Dadim\Desktop\Examples\Hometask03\obj\Debug\net6.0\Hometask03.dll
+C:\Users\Dadim\Desktop\Examples\Hometask03\obj\Debug\net6.0\refint\Hometask03.dll
+C:\Users\Dadim\Desktop\Examples\Hometask03\obj\Debug\net6.0\Hometask03.pdb
+C:\Users\Dadim\Desktop\Examples\Hometask03\obj\Debug\net6.0\Hometask03.genruntimeconfig.cache
+C:\Users\Dadim\Desktop\Examples\Hometask03\obj\Debug\net6.0\ref\Hometask03.dll
