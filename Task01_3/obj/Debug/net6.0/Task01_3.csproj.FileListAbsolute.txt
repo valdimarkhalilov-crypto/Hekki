@@ -1,0 +1,15 @@
+C:\Users\Dadim\Desktop\Examples\Task01_3\bin\Debug\net6.0\Task01_3.exe
+C:\Users\Dadim\Desktop\Examples\Task01_3\bin\Debug\net6.0\Task01_3.deps.json
+C:\Users\Dadim\Desktop\Examples\Task01_3\bin\Debug\net6.0\Task01_3.runtimeconfig.json
+C:\Users\Dadim\Desktop\Examples\Task01_3\bin\Debug\net6.0\Task01_3.dll
+C:\Users\Dadim\Desktop\Examples\Task01_3\bin\Debug\net6.0\Task01_3.pdb
+C:\Users\Dadim\Desktop\Examples\Task01_3\obj\Debug\net6.0\Task01_3.csproj.AssemblyReference.cache
+C:\Users\Dadim\Desktop\Examples\Task01_3\obj\Debug\net6.0\Task01_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dadim\Desktop\Examples\Task01_3\obj\Debug\net6.0\Task01_3.AssemblyInfoInputs.cache
+C:\Users\Dadim\Desktop\Examples\Task01_3\obj\Debug\net6.0\Task01_3.AssemblyInfo.cs
+C:\Users\Dadim\Desktop\Examples\Task01_3\obj\Debug\net6.0\Task01_3.csproj.CoreCompileInputs.cache
+C:\Users\Dadim\Desktop\Examples\Task01_3\obj\Debug\net6.0\Task01_3.dll
+C:\Users\Dadim\Desktop\Examples\Task01_3\obj\Debug\net6.0\refint\Task01_3.dll
+C:\Users\Dadim\Desktop\Examples\Task01_3\obj\Debug\net6.0\Task01_3.pdb
+C:\Users\Dadim\Desktop\Examples\Task01_3\obj\Debug\net6.0\Task01_3.genruntimeconfig.cache
+C:\Users\Dadim\Desktop\Examples\Task01_3\obj\Debug\net6.0\ref\Task01_3.dll
